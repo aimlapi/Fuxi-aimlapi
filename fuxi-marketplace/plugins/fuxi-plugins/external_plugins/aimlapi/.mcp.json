@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "aimlapi": {
+      "type": "http",
+      "url": "https://mcp.aimlapi.com/mcp",
+      "headers": {
+        "Authorization": "Bearer ${AIMLAPI_API_KEY}"
+      }
+    }
+  }
+}

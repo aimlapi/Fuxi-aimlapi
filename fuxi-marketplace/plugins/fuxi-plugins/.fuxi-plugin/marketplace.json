@@ -51,6 +51,19 @@
       "homepage": "https://github.com/adobe/skills/tree/main/plugins/creative-cloud/adobe-for-creativity"
     },
     {
+      "name": "aimlapi",
+      "description": "Official AI/ML API hosted MCP server with access to 10,000+ tools and models. Model lookups and account checks are free; generation, chat, embeddings and tools_run are billed pay-as-you-go to your AI/ML API account.",
+      "author": {
+        "name": "AI/ML API"
+      },
+      "category": "development",
+      "source": "./external_plugins/aimlapi",
+      "homepage": "https://docs.aimlapi.com/quickstart/mcp",
+      "tags": [
+        "community-managed"
+      ]
+    },
+    {
       "name": "agent-sdk-dev",
       "description": "Development kit for working with the FuXi Agent SDK",
       "author": {
